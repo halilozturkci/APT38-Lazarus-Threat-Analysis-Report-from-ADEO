@@ -8,4 +8,4 @@ In year 2019 we noticed that they have been targeting financial institutions in 
 
 The activities that are explained in this report are the results of one of our compromise assessments projects that was performed for a financial organization in 2019.
 
-![](/Users/halilozturkci/%23APT_Reports_From_ADEO/APT38-Lazarus-Threat-Analysis-Report-from-ADEO/Lazarus_APT38.png)
+![](https://github.com/halilozturkci/APT38-Lazarus-Threat-Analysis-Report-from-ADEO/blob/master/Lazarus_APT38.png)
